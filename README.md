@@ -1,0 +1,2 @@
+# juheInterfaceTest
+这是一个基于Java语言，用JavaGUI呈现出效果的聚合接口调用小作品
