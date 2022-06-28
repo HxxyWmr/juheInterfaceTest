@@ -1,0 +1,15 @@
+News_Type=top
+News_URL=聚合接口请求的网址
+News_PageSize=30
+News_Key=聚合接口请求的键
+Star_API=聚合接口请求的网址
+Star_KEY=聚合接口请求的键
+Star_Type=today
+Funny_URL=聚合接口请求的网址
+Funny_KEY=聚合接口请求的键
+Bottom_Key=聚合接口请求的键
+Bottom_URL=聚合接口请求的网址
+Weather_URL=聚合接口请求的网址
+Weather_KEY=聚合接口请求的键
+
+
